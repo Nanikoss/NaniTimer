@@ -33,7 +33,7 @@ And alters RNG and other elements of the maps for practicing purposes (Only supp
 - Support for mods such as custom camos v2 and custom perk shaders
 
 ## Installation
-**1.** Download the latest release of the mod [here]\
+**1.** Download the latest release of the mod [here](https://github.com/Nanikoss/NaniTimer/releases/tag/latest)\
 **2.** Open the file with extraction program of your choice\
 **3.** Drag and drop the Nani_timer folder into your black ops III mods folder\
 **4.** **[IMPORTANT]:** Make sure when you launch the game that you have a key binded for fast_restart. This is important as you need to fast_restart upon first starting a map for the timer to appear. Same applies for using commands suchas /modvar EnablePatch 1. Changes will only take effect when you fast_restart.
