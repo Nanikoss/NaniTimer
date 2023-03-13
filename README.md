@@ -8,7 +8,7 @@ adding support for other maps and other features to make this a great tool for t
 
 ## Features
 - Ingame timer with attempt counter + splits based on the map your playing (Supports all maps except SOE and Ascension currently)
-- Unlimited Gobblegums when playing online/offline
+- Unlimited Gobblegums when playing online/offline [Does not officially support co-op yet]
 - Options menu for customizing timer features
 
 ![image](https://user-images.githubusercontent.com/35498189/224621540-a5956965-d0e9-4f80-baca-5cbff0715001.png)
