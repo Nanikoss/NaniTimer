@@ -7,7 +7,7 @@ The initial mod was very well recieved by the community and I realised I could e
 adding support for other maps and other features to make this a great tool for the EE Speedruning community.
 
 ## Features
-- Ingame timer with attempt counter + splits based on the map your playing (Supports all maps except SOE and Ascension currently)
+- Ingame timer with attempt counter + splits based on the map your playing (Supports all maps except Ascension currently)
 - Unlimited Gobblegums when playing online/offline [Does not officially support co-op yet]
 - Options menu for customizing timer features
 
